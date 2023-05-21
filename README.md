@@ -42,4 +42,6 @@ scrapy >= 1.8.0
 ## 运行方式
 本地配置好MySQL数据库，修改settings.py文件适配本地环境
 
+`python create_table.py`来创建需要的数据表
+
 运行爬虫: `scrapy crawl xxx`, 其中`xxx`为spider文件内定义的爬虫名称
