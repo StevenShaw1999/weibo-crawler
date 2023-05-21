@@ -8,17 +8,16 @@
 ## Python脚本结构
 
 + crawler
- + logs
- + spider
-	+ weibo_chaohua.py
-	+ weibo_topic.py
- + items.py
- + middlewares.py
- + pipelines.py
- + settings.py
- + utils.py
+ 	+ logs
+ 	+ spider
+		+ weibo_chaohua.py
+		+ weibo_topic.py
+ 	+ items.py
+ 	+ middlewares.py
+ 	+ pipelines.py
+ 	+ settings.py
+ 	+ utils.py
 + create_table.py
-
 
 ## 程序说明
 create_table.py用于在本地数据库内创建相应名称的数据表 
