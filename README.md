@@ -12,6 +12,9 @@
  	+ spiders
 		+ weibo_chaohua.py
 		+ weibo_topic.py
+		+ actor_bowen.py
+		+ bowen_comment.py
+		+ user_bowen.py
  	+ items.py
  	+ middlewares.py
  	+ pipelines.py
