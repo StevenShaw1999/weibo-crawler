@@ -9,7 +9,7 @@
 
 + crawler
  	+ logs
- 	+ spider
+ 	+ spiders
 		+ weibo_chaohua.py
 		+ weibo_topic.py
  	+ items.py
